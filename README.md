@@ -1,6 +1,6 @@
 # Flask-GraphQL
 
-My practise for the upcming interview.
+My practise for the upcoming interview.
 
 Adds GraphQL support to your Flask application.
 
